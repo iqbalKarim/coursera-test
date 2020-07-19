@@ -1,0 +1,56 @@
+body 
+{
+	background-color: #FFFFFF;
+}
+
+#header-nav
+{
+	background-color: #999999;
+	border-radius: 0;
+	border: 0;
+	border-bottom: 5px;
+	border-color: #000000;
+}
+
+h1{
+	color: #000000;
+	margin-top: 0;
+	font-size: 1.8em;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}  
+
+h2{
+	color: #000000;
+	font-size: 1.5em;
+}
+
+div h3{
+	font-size: 1.4em;
+	margin-top: 10px;
+}
+
+section
+{
+	background-color: #187548;
+	margin: 10px;
+}
+
+section div{
+	text-align: justify;
+	padding: 5px;
+	height: 1000px;
+}
+
+#nav-list a{
+	text-align: center;
+}
+#nav-list a:hover{
+	background: #186459;
+}
+
+section.container-fluid {
+	margin : 20px;
+}
