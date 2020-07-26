@@ -43,7 +43,7 @@ WARNING!!! WARNING!!!
   // 'speak' method.
   // See Lecture 50, part 1
   for (var i = 0; i < 10; i++) {
-    helloSpeaker.speak(names[i]);
+    //helloSpeaker.speak(names[i]);
     // byeSpeaker.speak(names[i]);
     
     // STEP 11:
